@@ -1,0 +1,12 @@
+h1 {
+    text-align:center;
+    background-color:#549ab8;
+}
+main {
+    max-width:960px;
+  margin:0 auto;
+  padding:40px 24px;
+}
+.small {
+    font-size:0.8em;
+}
