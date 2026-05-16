@@ -1,21 +1,41 @@
-h1 {
+.blue-head {
     text-align:center;
     background-color:#549ab8;
 }
-main {
+.orange-body {
+    background-color:rgba(255, 166, 0, 0.615);
+}
+.blue {
     max-width:960px;
   margin:0 auto;
   padding:40px 24px;
+  background-color:#549ab8;
 }
 .small {
     font-size:0.8em;
 }
-main {
-    background-color:#549ab8
-}
-body {
-    background-color:rgba(255, 166, 0, 0.615);
-}
+
 .bold {
     font-weight: bold;
+}
+
+.center {
+    text-align:center;
+}
+.reddish-body {
+    background-color:rgb(91, 42, 4)
+}
+.orange {
+    background-color:rgb(153, 77, 1);
+}
+.image-class {
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.grey {
+    background-color:rgb(175, 175, 175);
+}
+.grey-body {
+    background-color:rgb(117, 117, 117)
 }
