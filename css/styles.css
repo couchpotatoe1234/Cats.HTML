@@ -49,7 +49,7 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(117, 117, 117)
+    background-color:rgb(88, 88, 88)
 }
 .image-container {
     display: flex;
@@ -62,5 +62,8 @@
     object-fit: cover;
 }
 .white {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
     background-color:rgb(209, 209, 209)
 }
