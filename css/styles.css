@@ -26,7 +26,7 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(91, 42, 4)
+    background-color:rgb(108, 50, 5)
 }
 .orange {
     max-width:960px;
@@ -52,12 +52,14 @@
     background-color:rgb(117, 117, 117)
 }
 .image-container {
-  display: flex;
-  justify-content: space-around;
+    display: flex;
+    justify-content: space-around;
 }
 
 .image-container img {
-  width: 45%;
+    width: 45%;
+    flex-shrink: 0;
+    object-fit: cover;
 }
 .white {
     background-color:rgb(209, 209, 209)
