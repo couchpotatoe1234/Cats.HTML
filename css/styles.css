@@ -29,6 +29,9 @@
     background-color:rgb(91, 42, 4)
 }
 .orange {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
     background-color:rgb(153, 77, 1);
 }
 .image-class {
@@ -37,6 +40,9 @@
     margin: 0 auto;
 }
 .grey {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
     background-color:rgb(175, 175, 175);
 }
 .grey-body {
