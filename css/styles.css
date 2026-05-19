@@ -97,3 +97,9 @@
     padding:40px 24px;
     background-color:rgb(17, 10, 3);
 }
+.black {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
+    background-color:black;
+}
