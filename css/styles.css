@@ -113,12 +113,5 @@
     color:rgb(0, 50, 0);
 }
 .gradient {
-    background: linear-gradient(135deg, #cecece, #1d2528);
-    width: 100vw;
-    height: 100vh;
-    margin: 0;
-    padding: 40px 24px;
-}
-.greydient {
-    background-color:#343434
+    background: linear-gradient(to left, #cecece, #1d2528);
 }
