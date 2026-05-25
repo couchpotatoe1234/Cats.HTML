@@ -1,5 +1,5 @@
 # Cat website (could be called Catpedia)
-This is a simple HTML website that I coded pretty much entirely by hand to gain a better understanging of HTML and CSS. Along the way, I learned a whole lot about many different cat breeds. I also practiced my writing skills and this was overall very goood practice for my coding and writing skills. 
+This is a simple HTML website that I coded pretty much entirely by hand to gain a better understanging of HTML and CSS. Along the way, I learned a whole lot about many different cat breeds. I also practiced my writing skills and this was overall very goood practice for my coding and writing skills. The CSS is also really simple, being only 1 CSS file for the whole project. The CSS does its job though and makes the site look great.
 <div align="center">
     <img src="css/images/Example.gif" alt="Overall Shot" width="800">
 </div> 
